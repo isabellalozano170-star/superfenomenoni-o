@@ -1,0 +1,410 @@
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Fenómeno del Niño y Super Niño</title>
+
+<style>
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #8e44ad;
+    padding: 18px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    min-height: 100vh;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+#inicio {
+    background-color: #87CEEB;
+}
+
+#lengua {
+    background-color: #F5D0FE;
+}
+
+#ambiental {
+    background-color: #D7B899;
+}
+
+h1 {
+    font-size: 35px;
+    color: #222;
+}
+
+h2 {
+    margin-top: 30px;
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.7;
+}
+
+li {
+    font-size: 17px;
+    margin: 15px;
+    line-height: 1.5;
+}
+
+.imagen-pagina {
+    display: block;
+    width: 90%;
+    max-width: 700px;
+    height: auto;
+    margin: 25px auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.descripcion-imagen {
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+}
+
+@media (max-width: 600px) {
+    nav a {
+        display: block;
+        margin: 10px;
+    }
+
+    section {
+        padding: 25px;
+    }
+}
+
+</style>
+</head>
+
+<body>
+
+<!-- BARRA DE NAVEGACIÓN -->
+
+<nav>
+    <a href="#inicio">Inicio</a>
+    <a href="#lengua">Lengua Castellana</a>
+    <a href="#ambiental">Educación Ambiental</a>
+</nav>
+
+
+<!-- PÁGINA 1: INICIO -->
+
+<section id="inicio">
+
+<h1>FENÓMENO DEL NIÑO Y SUPER NIÑO</h1>
+
+<p>
+El fenómeno de <strong>El Niño</strong> es un fenómeno climático
+relacionado con el calentamiento anormal de las aguas superficiales
+del océano Pacífico ecuatorial. Este cambio puede modificar las
+condiciones normales de temperatura y precipitación en diferentes
+regiones.
+</p>
+
+<p>
+En Colombia, El Niño puede provocar períodos de menor cantidad de
+lluvias y temperaturas más altas. Estas condiciones pueden generar
+sequías y afectar los recursos naturales, la agricultura, los animales
+y las actividades de las comunidades.
+</p>
+
+<p>
+La intensidad del fenómeno puede variar. Cuando se presenta un episodio
+especialmente fuerte, se suele utilizar el término
+<strong>Super El Niño</strong>. Estos eventos pueden producir
+alteraciones importantes en las condiciones climáticas.
+</p>
+
+<h2>¿Por qué es importante conocer El Niño?</h2>
+
+<p>
+Conocer este fenómeno nos permite comprender los cambios que pueden
+presentarse en nuestro entorno y prepararnos ante situaciones como
+sequías, altas temperaturas y disminución de las fuentes de agua.
+También permite fortalecer las acciones de prevención y cuidado
+del medio ambiente.
+</p>
+
+<h2>Principales afectaciones</h2>
+
+<ul>
+<li><strong>Sequías:</strong> disminución de las lluvias y del agua disponible.</li>
+
+<li><strong>Altas temperaturas:</strong> aumento de las condiciones de calor.</li>
+
+<li><strong>Agricultura:</strong> dificultades para algunos cultivos por la falta de agua.</li>
+
+<li><strong>Incendios forestales:</strong> las condiciones secas pueden aumentar el riesgo de incendios.</li>
+
+<li><strong>Ecosistemas:</strong> plantas y animales pueden verse afectados por la disminución del agua y alimento.</li>
+</ul>
+
+<h2>El Niño en Colombia</h2>
+
+<p>
+Los efectos de El Niño no son iguales en todo el territorio colombiano.
+Cada región puede experimentar diferentes condiciones dependiendo de
+sus características climáticas y ambientales. Por esta razón es
+importante conocer la información de cada territorio y tomar medidas
+de prevención.
+</p>
+
+<img class="imagen-pagina"
+src="cambio.jpg"
+alt="Sequía y disminución del agua">
+
+<p class="descripcion-imagen">
+La disminución del agua puede afectar los ecosistemas y las actividades humanas.
+</p>
+
+</section>
+
+
+<!-- PÁGINA 2: LENGUA CASTELLANA -->
+
+<section id="lengua">
+
+<h1>LENGUA CASTELLANA</h1>
+
+<h2>Se prevé impacto en personas y territorios</h2>
+
+<p>
+Más de <strong>4,3 millones de personas en Colombia</strong> podrían
+enfrentar afectaciones severas por el fenómeno de El Niño 2026–2027,
+especialmente por <strong>desabastecimiento de agua</strong>, con
+impactos concentrados en <strong>508 municipios</strong>, equivalentes
+al 45 % del país.
+</p>
+
+<p>
+El riesgo es mayor en departamentos como
+<strong>La Guajira, Córdoba y Antioquia</strong>, evidenciando una
+afectación territorial amplia y desigual.
+</p>
+
+<h2>Posible crisis multisectorial</h2>
+
+<p>
+El fenómeno podría afectar simultáneamente diferentes sectores y
+condiciones de vida de la población.
+</p>
+
+<ul>
+<li><strong>Agua y saneamiento:</strong> podría existir una alta probabilidad de racionamiento y escasez.</li>
+
+<li><strong>Seguridad alimentaria:</strong> se estima que entre <strong>1,7 y 3 millones de personas adicionales</strong> podrían enfrentar inseguridad alimentaria.</li>
+
+<li><strong>Salud:</strong> podrían aumentar algunas enfermedades y la presión sobre los servicios de salud.</li>
+
+<li><strong>Vivienda:</strong> las condiciones de vida podrían deteriorarse en las zonas más afectadas.</li>
+</ul>
+
+<h2>Impactos diferenciados en poblaciones vulnerables</h2>
+
+<p>
+Las mayores afectaciones podrían recaer en
+<strong>comunidades rurales, población en situación de pobreza, niños,
+mujeres y comunidades indígenas</strong>. La dependencia de los recursos
+naturales y las limitaciones de infraestructura pueden aumentar la
+vulnerabilidad frente a la sequía, el calor extremo y los incendios
+forestales.
+</p>
+
+<h2>Medidas de acción anticipatoria</h2>
+
+<p>
+Las acciones tempranas y coordinadas pueden ayudar a reducir los posibles impactos del fenómeno.
+</p>
+
+<ul>
+<li><strong>Garantizar el acceso al agua</strong> mediante almacenamiento, distribución y ahorro.</li>
+
+<li><strong>Proteger los medios de vida</strong> mediante insumos agropecuarios resilientes.</li>
+
+<li><strong>Fortalecer los sistemas de salud</strong> y la vigilancia epidemiológica.</li>
+
+<li><strong>Activar planes comunitarios y educativos</strong> frente a sequías e incendios.</li>
+</ul>
+
+<h2>Análisis prospectivo</h2>
+
+<p>
+Este producto presenta un análisis prospectivo de los posibles impactos
+humanitarios y sectoriales derivados de un eventual evento de El Niño
+durante el período 2026–2027, integrando información climática,
+vulnerabilidad territorial y antecedentes históricos de afectación.
+</p>
+
+<p>
+Incluye el <strong>Índice Territorial ante Impactos del Fenómeno de
+El Niño</strong>, desarrollado por 3iS, que permite identificar
+municipios con mayores niveles de susceptibilidad frente a sequías,
+desabastecimiento hídrico, aumento de temperaturas e incendios
+forestales.
+</p>
+
+<p>
+El producto busca apoyar procesos de preparación, priorización
+territorial y toma de decisiones por parte de actores humanitarios
+e instituciones de gestión del riesgo.
+</p>
+
+La siguiente imagen presenta una comparación de las anomalías de
+temperatura del océano Pacífico durante los años 1877 y 2026.
+Permite observar el calentamiento oceánico y comprender por qué
+se habla de un posible evento de Super El Niño.
+</p>
+
+<img class="imagen-pagina"
+src="cambio climatico.wedp"
+alt="Comparación del Super El Niño entre 1877 y 2026">
+
+<p class="descripcion-imagen">
+Comparación de las anomalías de temperatura del océano Pacífico.
+</p>
+
+</section>
+
+
+<!-- PÁGINA 3: EDUCACIÓN AMBIENTAL -->
+
+<section id="ambiental">
+
+<h1>EDUCACIÓN AMBIENTAL</h1>
+
+<p>
+El fenómeno de <strong>El Niño</strong> está presente en 2026 y,
+según los pronósticos climáticos, se espera que continúe fortaleciéndose
+durante los próximos meses.
+</p>
+
+<p>
+Los pronósticos señalan una probabilidad cercana al
+<strong>100 % de que persista entre septiembre y noviembre de 2026
+y entre diciembre de 2026 y febrero de 2027</strong>.
+</p>
+
+<h2>¿Qué es el fenómeno de El Niño?</h2>
+
+<p>
+El Niño es un fenómeno climático asociado al
+<strong>calentamiento anómalo de las aguas superficiales del Pacífico
+ecuatorial central y oriental</strong> y a cambios en la interacción
+entre el océano y la atmósfera.
+</p>
+
+<p>
+Sus efectos pueden modificar los patrones de temperatura y
+precipitación en diferentes regiones. Sin embargo,
+<strong>El Niño no produce las mismas condiciones en todos los
+territorios</strong>. Sus impactos dependen de factores regionales
+y de otras condiciones climáticas.
+</p>
+
+<h2>¿Qué está pasando con El Niño en 2026?</h2>
+
+<p>
+Los indicadores del océano y la atmósfera permiten realizar
+seguimientos sobre el comportamiento del fenómeno. Los pronósticos
+climáticos ayudan a estudiar su posible intensidad y sus efectos
+en diferentes regiones.
+</p>
+
+<h2>Alertas hidrológicas en Colombia</h2>
+
+<p>
+El seguimiento de las alertas hidrológicas permite identificar
+las zonas del país que presentan diferentes niveles de riesgo
+relacionados con el comportamiento del agua. Esta información
+es importante para prevenir emergencias y tomar decisiones
+frente a posibles sequías y otras condiciones hidrológicas.
+</p>
+
+
+<p class="descripcion-imagen">
+Mapa de alertas hidrológicas en el territorio colombiano.
+</p>
+
+<h2>¿Por qué es importante informarnos?</h2>
+
+<p>
+Comprender este fenómeno permite diferenciar entre los pronósticos
+globales y sus posibles efectos locales. También ayuda a fortalecer
+la <strong>prevención, la adaptación y la gestión del riesgo</strong>.
+</p>
+
+<p>
+La intensidad de El Niño no determina por sí sola la magnitud de sus
+efectos en una región específica. Para conocer las condiciones
+particulares de cada territorio es necesario consultar también la
+información de los servicios meteorológicos y climáticos nacionales
+y regionales.
+</p>
+
+<h2>La importancia de la preparación</h2>
+
+<p>
+Informarnos sobre los fenómenos climáticos nos ayuda a pasar de la
+reacción a la preparación. Conocer los posibles cambios permite tomar
+medidas frente a situaciones como sequías, calor extremo, escasez de
+agua e incendios.
+</p>
+
+<h2>¿Cómo podemos contribuir?</h2>
+
+<ul>
+<li>Ahorrar agua y evitar desperdiciarla.</li>
+
+<li>Cuidar ríos, humedales y otras fuentes de agua.</li>
+
+<li>Proteger los ecosistemas y la biodiversidad.</li>
+
+<li>Evitar acciones que puedan provocar incendios forestales.</li>
+
+<li>Compartir información proveniente de fuentes confiables.</li>
+
+<li>Participar en actividades de educación y prevención ambiental.</li>
+</ul>
+
+<h2>Conclusión</h2>
+
+<p>
+El Niño es un fenómeno natural que puede modificar las condiciones
+de temperatura y precipitación. Informarnos sobre su comportamiento
+nos permite comprender mejor sus posibles efectos y fortalecer
+las acciones de prevención y cuidado del ambiente.
+</p>
+
+</section>
+
+</body>
+</html>
